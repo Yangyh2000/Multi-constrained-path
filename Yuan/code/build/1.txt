@@ -1,0 +1,758 @@
+0 1:
+The Path from 0 to 1 is:
+0 1 
+The run time is: 0.035616 s
+
+0 2:
+The Path from 0 to 2 is:
+0 2 
+The run time is: 0.038286 s
+
+0 3:
+there is no feasible path
+The run time is: 0.035950 s
+
+0 4:
+The Path from 0 to 4 is:
+0 4 
+The run time is: 0.036957 s
+
+0 5:
+The Path from 0 to 5 is:
+0 5 
+The run time is: 0.045113 s
+
+0 6:
+there is no feasible path
+The run time is: 0.037394 s
+
+0 7:
+The Path from 0 to 7 is:
+0 7 
+The run time is: 0.035344 s
+
+0 8:
+there is no feasible path
+The run time is: 0.036387 s
+
+0 9:
+there is no feasible path
+The run time is: 0.039900 s
+
+0 10:
+there is no feasible path
+The run time is: 0.042836 s
+
+0 11:
+there is no feasible path
+The run time is: 0.038716 s
+
+0 12:
+there is no feasible path
+The run time is: 0.036241 s
+
+1 0:
+there is no feasible path
+The run time is: 0.036453 s
+
+1 2:
+The Path from 1 to 2 is:
+1 2 
+The run time is: 0.035869 s
+
+1 3:
+The Path from 1 to 3 is:
+1 3 
+The run time is: 0.037104 s
+
+1 4:
+The Path from 1 to 4 is:
+1 4 
+The run time is: 0.036007 s
+
+1 5:
+The Path from 1 to 5 is:
+1 5 
+The run time is: 0.035612 s
+
+1 6:
+The Path from 1 to 6 is:
+1 3 6 
+The run time is: 0.036737 s
+
+1 7:
+The Path from 1 to 7 is:
+1 7 
+The run time is: 0.038495 s
+
+1 8:
+The Path from 1 to 8 is:
+1 3 6 8 
+The run time is: 0.040452 s
+
+1 9:
+there is no feasible path
+The run time is: 0.038385 s
+
+1 10:
+The Path from 1 to 10 is:
+1 10 
+The run time is: 0.036248 s
+
+1 11:
+The Path from 1 to 11 is:
+1 12 11 
+The run time is: 0.036299 s
+
+1 12:
+The Path from 1 to 12 is:
+1 12 
+The run time is: 0.036574 s
+
+2 0:
+The Path from 2 to 0 is:
+2 0 
+The run time is: 0.039666 s
+
+2 1:
+The Path from 2 to 1 is:
+2 1 
+The run time is: 0.037183 s
+
+2 3:
+The Path from 2 to 3 is:
+2 3 
+The run time is: 0.038273 s
+
+2 4:
+The Path from 2 to 4 is:
+2 4 
+The run time is: 0.037689 s
+
+2 5:
+The Path from 2 to 5 is:
+2 5 
+The run time is: 0.047646 s
+
+2 6:
+The Path from 2 to 6 is:
+2 6 
+The run time is: 0.053756 s
+
+2 7:
+The Path from 2 to 7 is:
+2 7 
+The run time is: 0.041876 s
+
+2 8:
+The Path from 2 to 8 is:
+2 6 8 
+The run time is: 0.041519 s
+
+2 9:
+there is no feasible path
+The run time is: 0.044948 s
+
+2 10:
+The Path from 2 to 10 is:
+2 10 
+The run time is: 0.048340 s
+
+2 11:
+The Path from 2 to 11 is:
+2 5 12 11 
+The run time is: 0.045814 s
+
+2 12:
+The Path from 2 to 12 is:
+2 5 12 
+The run time is: 0.040911 s
+
+3 0:
+The Path from 3 to 0 is:
+3 0 
+The run time is: 0.038949 s
+
+3 1:
+The Path from 3 to 1 is:
+3 1 
+The run time is: 0.040166 s
+
+3 2:
+The Path from 3 to 2 is:
+3 2 
+The run time is: 0.044134 s
+
+3 4:
+The Path from 3 to 4 is:
+3 4 
+The run time is: 0.040639 s
+
+3 5:
+The Path from 3 to 5 is:
+3 5 
+The run time is: 0.037399 s
+
+3 6:
+The Path from 3 to 6 is:
+3 6 
+The run time is: 0.037835 s
+
+3 7:
+The Path from 3 to 7 is:
+3 7 
+The run time is: 0.036609 s
+
+3 8:
+The Path from 3 to 8 is:
+3 6 8 
+The run time is: 0.038460 s
+
+3 9:
+there is no feasible path
+The run time is: 0.038109 s
+
+3 10:
+The Path from 3 to 10 is:
+3 4 10 
+The run time is: 0.037957 s
+
+3 11:
+The Path from 3 to 11 is:
+3 12 11 
+The run time is: 0.037810 s
+
+3 12:
+The Path from 3 to 12 is:
+3 12 
+The run time is: 0.038145 s
+
+4 0:
+there is no feasible path
+The run time is: 0.040061 s
+
+4 1:
+The Path from 4 to 1 is:
+4 1 
+The run time is: 0.037544 s
+
+4 2:
+The Path from 4 to 2 is:
+4 2 
+The run time is: 0.036880 s
+
+4 3:
+The Path from 4 to 3 is:
+4 3 
+The run time is: 0.035998 s
+
+4 5:
+The Path from 4 to 5 is:
+4 5 
+The run time is: 0.036842 s
+
+4 6:
+The Path from 4 to 6 is:
+4 6 
+The run time is: 0.036723 s
+
+4 7:
+The Path from 4 to 7 is:
+4 7 
+The run time is: 0.036278 s
+
+4 8:
+The Path from 4 to 8 is:
+4 6 8 
+The run time is: 0.037476 s
+
+4 9:
+there is no feasible path
+The run time is: 0.037362 s
+
+4 10:
+The Path from 4 to 10 is:
+4 10 
+The run time is: 0.039450 s
+
+4 11:
+The Path from 4 to 11 is:
+4 5 12 11 
+The run time is: 0.036488 s
+
+4 12:
+The Path from 4 to 12 is:
+4 5 12 
+The run time is: 0.037318 s
+
+5 0:
+there is no feasible path
+The run time is: 0.036415 s
+
+5 1:
+The Path from 5 to 1 is:
+5 1 
+The run time is: 0.035682 s
+
+5 2:
+The Path from 5 to 2 is:
+5 2 
+The run time is: 0.037556 s
+
+5 3:
+The Path from 5 to 3 is:
+5 3 
+The run time is: 0.036980 s
+
+5 4:
+The Path from 5 to 4 is:
+5 4 
+The run time is: 0.035945 s
+
+5 6:
+The Path from 5 to 6 is:
+5 6 
+The run time is: 0.039731 s
+
+5 7:
+The Path from 5 to 7 is:
+5 7 
+The run time is: 0.038236 s
+
+5 8:
+The Path from 5 to 8 is:
+5 6 8 
+The run time is: 0.037855 s
+
+5 9:
+there is no feasible path
+The run time is: 0.037344 s
+
+5 10:
+The Path from 5 to 10 is:
+5 10 
+The run time is: 0.037456 s
+
+5 11:
+The Path from 5 to 11 is:
+5 12 11 
+The run time is: 0.037899 s
+
+5 12:
+The Path from 5 to 12 is:
+5 12 
+The run time is: 0.036932 s
+
+6 0:
+there is no feasible path
+The run time is: 0.036574 s
+
+6 1:
+The Path from 6 to 1 is:
+6 3 1 
+The run time is: 0.037385 s
+
+6 2:
+The Path from 6 to 2 is:
+6 2 
+The run time is: 0.036828 s
+
+6 3:
+The Path from 6 to 3 is:
+6 3 
+The run time is: 0.036956 s
+
+6 4:
+The Path from 6 to 4 is:
+6 4 
+The run time is: 0.037459 s
+
+6 5:
+The Path from 6 to 5 is:
+6 5 
+The run time is: 0.037807 s
+
+6 7:
+The Path from 6 to 7 is:
+6 5 7 
+The run time is: 0.035985 s
+
+6 8:
+The Path from 6 to 8 is:
+6 8 
+The run time is: 0.036951 s
+
+6 9:
+there is no feasible path
+The run time is: 0.036328 s
+
+6 10:
+The Path from 6 to 10 is:
+6 5 10 
+The run time is: 0.038162 s
+
+6 11:
+The Path from 6 to 11 is:
+6 5 12 11 
+The run time is: 0.037666 s
+
+6 12:
+The Path from 6 to 12 is:
+6 5 12 
+The run time is: 0.038507 s
+
+7 0:
+there is no feasible path
+The run time is: 0.037130 s
+
+7 1:
+The Path from 7 to 1 is:
+7 1 
+The run time is: 0.039120 s
+
+7 2:
+The Path from 7 to 2 is:
+7 2 
+The run time is: 0.038988 s
+
+7 3:
+The Path from 7 to 3 is:
+7 3 
+The run time is: 0.038406 s
+
+7 4:
+The Path from 7 to 4 is:
+7 4 
+The run time is: 0.037572 s
+
+7 5:
+The Path from 7 to 5 is:
+7 5 
+The run time is: 0.038972 s
+
+7 6:
+The Path from 7 to 6 is:
+7 5 6 
+The run time is: 0.037720 s
+
+7 8:
+The Path from 7 to 8 is:
+7 5 6 8 
+The run time is: 0.038524 s
+
+7 9:
+there is no feasible path
+The run time is: 0.038880 s
+
+7 10:
+The Path from 7 to 10 is:
+7 5 10 
+The run time is: 0.037050 s
+
+7 11:
+The Path from 7 to 11 is:
+7 12 11 
+The run time is: 0.037111 s
+
+7 12:
+The Path from 7 to 12 is:
+7 12 
+The run time is: 0.037874 s
+
+8 0:
+there is no feasible path
+The run time is: 0.038145 s
+
+8 1:
+The Path from 8 to 1 is:
+8 6 3 1 
+The run time is: 0.039050 s
+
+8 2:
+The Path from 8 to 2 is:
+8 6 2 
+The run time is: 0.040156 s
+
+8 3:
+The Path from 8 to 3 is:
+8 6 3 
+The run time is: 0.039108 s
+
+8 4:
+The Path from 8 to 4 is:
+8 6 4 
+The run time is: 0.038759 s
+
+8 5:
+The Path from 8 to 5 is:
+8 6 5 
+The run time is: 0.039101 s
+
+8 6:
+The Path from 8 to 6 is:
+8 6 
+The run time is: 0.038389 s
+
+8 7:
+The Path from 8 to 7 is:
+8 6 5 7 
+The run time is: 0.038102 s
+
+8 9:
+there is no feasible path
+The run time is: 0.038497 s
+
+8 10:
+The Path from 8 to 10 is:
+8 10 
+The run time is: 0.040969 s
+
+8 11:
+The Path from 8 to 11 is:
+8 11 
+The run time is: 0.038740 s
+
+8 12:
+The Path from 8 to 12 is:
+8 11 12 
+The run time is: 0.037473 s
+
+9 0:
+there is no feasible path
+The run time is: 0.039897 s
+
+9 1:
+The Path from 9 to 1 is:
+9 5 1 
+The run time is: 0.039057 s
+
+9 2:
+The Path from 9 to 2 is:
+9 5 2 
+The run time is: 0.038803 s
+
+9 3:
+The Path from 9 to 3 is:
+9 5 3 
+The run time is: 0.038232 s
+
+9 4:
+The Path from 9 to 4 is:
+9 5 4 
+The run time is: 0.037116 s
+
+9 5:
+The Path from 9 to 5 is:
+9 5 
+The run time is: 0.038247 s
+
+9 6:
+The Path from 9 to 6 is:
+9 6 
+The run time is: 0.038529 s
+
+9 7:
+The Path from 9 to 7 is:
+9 5 7 
+The run time is: 0.036470 s
+
+9 8:
+The Path from 9 to 8 is:
+9 11 8 
+The run time is: 0.036150 s
+
+9 10:
+The Path from 9 to 10 is:
+9 11 10 
+The run time is: 0.037064 s
+
+9 11:
+The Path from 9 to 11 is:
+9 11 
+The run time is: 0.037002 s
+
+9 12:
+The Path from 9 to 12 is:
+9 12 
+The run time is: 0.039201 s
+
+10 0:
+there is no feasible path
+The run time is: 0.038315 s
+
+10 1:
+The Path from 10 to 1 is:
+10 1 
+The run time is: 0.037670 s
+
+10 2:
+The Path from 10 to 2 is:
+10 1 2 
+The run time is: 0.038438 s
+
+10 3:
+The Path from 10 to 3 is:
+10 1 3 
+The run time is: 0.038579 s
+
+10 4:
+The Path from 10 to 4 is:
+10 1 4 
+The run time is: 0.036962 s
+
+10 5:
+The Path from 10 to 5 is:
+10 5 
+The run time is: 0.036990 s
+
+10 6:
+The Path from 10 to 6 is:
+10 5 6 
+The run time is: 0.035981 s
+
+10 7:
+The Path from 10 to 7 is:
+10 5 7 
+The run time is: 0.041533 s
+
+10 8:
+The Path from 10 to 8 is:
+10 8 
+The run time is: 0.040275 s
+
+10 9:
+there is no feasible path
+The run time is: 0.036881 s
+
+10 11:
+The Path from 10 to 11 is:
+10 11 
+The run time is: 0.036993 s
+
+10 12:
+The Path from 10 to 12 is:
+10 12 
+The run time is: 0.036478 s
+
+11 0:
+there is no feasible path
+The run time is: 0.036496 s
+
+11 1:
+The Path from 11 to 1 is:
+11 12 1 
+The run time is: 0.036162 s
+
+11 2:
+The Path from 11 to 2 is:
+11 12 5 2 
+The run time is: 0.036879 s
+
+11 3:
+The Path from 11 to 3 is:
+11 12 3 
+The run time is: 0.036521 s
+
+11 4:
+The Path from 11 to 4 is:
+11 12 5 4 
+The run time is: 0.038080 s
+
+11 5:
+The Path from 11 to 5 is:
+11 12 5 
+The run time is: 0.038335 s
+
+11 6:
+The Path from 11 to 6 is:
+11 12 5 6 
+The run time is: 0.036229 s
+
+11 7:
+The Path from 11 to 7 is:
+11 12 7 
+The run time is: 0.037711 s
+
+11 8:
+The Path from 11 to 8 is:
+11 8 
+The run time is: 0.041869 s
+
+11 9:
+there is no feasible path
+The run time is: 0.036900 s
+
+11 10:
+The Path from 11 to 10 is:
+11 10 
+The run time is: 0.036674 s
+
+11 12:
+The Path from 11 to 12 is:
+11 12 
+The run time is: 0.036737 s
+
+12 0:
+there is no feasible path
+The run time is: 0.036240 s
+
+12 1:
+The Path from 12 to 1 is:
+12 1 
+The run time is: 0.037515 s
+
+12 2:
+The Path from 12 to 2 is:
+12 5 2 
+The run time is: 0.038404 s
+
+12 3:
+The Path from 12 to 3 is:
+12 3 
+The run time is: 0.036888 s
+
+12 4:
+The Path from 12 to 4 is:
+12 5 4 
+The run time is: 0.037004 s
+
+12 5:
+The Path from 12 to 5 is:
+12 5 
+The run time is: 0.038789 s
+
+12 6:
+The Path from 12 to 6 is:
+12 5 6 
+The run time is: 0.038533 s
+
+12 7:
+The Path from 12 to 7 is:
+12 7 
+The run time is: 0.038657 s
+
+12 8:
+The Path from 12 to 8 is:
+12 11 8 
+The run time is: 0.039500 s
+
+12 9:
+there is no feasible path
+The run time is: 0.037665 s
+
+12 10:
+The Path from 12 to 10 is:
+12 10 
+The run time is: 0.038007 s
+
+12 11:
+The Path from 12 to 11 is:
+12 11 
+The run time is: 0.037854 s
+
+The total run time is: 5.968215 s
+The average run time is: 0.038258 s
+total pairs: 156
+found paths: 128
+feasible paths: 128
+not found paths: 28

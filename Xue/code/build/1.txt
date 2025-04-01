@@ -1,0 +1,160 @@
+0 1:
+The Path from 0 to 1 is:
+0 76 1 
+The run time is: 0.000564 s
+
+0 2:
+The Path from 0 to 2 is:
+0 2 
+The run time is: 0.000715 s
+
+0 3:
+The Path from 0 to 3 is:
+0 38 73 3 
+The run time is: 0.001141 s
+
+0 4:
+The Path from 0 to 4 is:
+0 38 4 
+The run time is: 0.000424 s
+
+0 5:
+The Path from 0 to 5 is:
+0 5 
+The run time is: 0.000488 s
+
+0 6:
+The Path from 0 to 6 is:
+0 56 6 
+The run time is: 0.000376 s
+
+0 7:
+The Path from 0 to 7 is:
+0 38 73 7 
+The run time is: 0.000292 s
+
+0 8:
+The Path from 0 to 8 is:
+0 38 8 
+The run time is: 0.000322 s
+
+0 9:
+The Path from 0 to 9 is:
+0 38 9 
+The run time is: 0.000291 s
+
+0 10:
+The Path from 0 to 10 is:
+0 56 10 
+The run time is: 0.000285 s
+
+0 11:
+The Path from 0 to 11 is:
+0 38 11 
+The run time is: 0.000286 s
+
+0 12:
+The Path from 0 to 12 is:
+0 94 12 
+The run time is: 0.000286 s
+
+0 13:
+The Path from 0 to 13 is:
+0 94 13 
+The run time is: 0.000403 s
+
+0 14:
+The Path from 0 to 14 is:
+0 38 73 14 
+The run time is: 0.000472 s
+
+0 15:
+The Path from 0 to 15 is:
+0 15 
+The run time is: 0.000451 s
+
+0 16:
+The Path from 0 to 16 is:
+0 16 
+The run time is: 0.000412 s
+
+0 17:
+The Path from 0 to 17 is:
+0 46 17 
+The run time is: 0.000312 s
+
+0 18:
+The Path from 0 to 18 is:
+0 38 18 
+The run time is: 0.000329 s
+
+0 19:
+The Path from 0 to 19 is:
+0 38 9 19 
+The run time is: 0.000289 s
+
+0 20:
+The Path from 0 to 20 is:
+0 94 20 
+The run time is: 0.000300 s
+
+0 21:
+The Path from 0 to 21 is:
+0 85 21 
+The run time is: 0.000328 s
+
+0 22:
+The Path from 0 to 22 is:
+0 22 
+The run time is: 0.000293 s
+
+0 23:
+The Path from 0 to 23 is:
+0 38 73 23 
+The run time is: 0.000291 s
+
+0 24:
+The Path from 0 to 24 is:
+0 38 73 35 24 
+The run time is: 0.000353 s
+
+0 25:
+The Path from 0 to 25 is:
+0 38 73 35 25 
+The run time is: 0.000322 s
+
+0 26:
+The Path from 0 to 26 is:
+0 56 6 26 
+The run time is: 0.000310 s
+
+0 27:
+The Path from 0 to 27 is:
+0 56 27 
+The run time is: 0.000324 s
+
+0 28:
+The Path from 0 to 28 is:
+0 38 28 
+The run time is: 0.000291 s
+
+0 29:
+The Path from 0 to 29 is:
+0 38 29 
+The run time is: 0.000286 s
+
+0 30:
+The Path from 0 to 30 is:
+0 16 30 
+The run time is: 0.000288 s
+
+The total run time is: 0.011524 s
+The average run time is: 0.000384 s
+total pairs: 30
+found paths: 30
+feasible paths: 24
+not found paths: 0
+
+Average of lat jit plr: 301.593000 32.624667 6.831415
+Median of lat jit plr: 277.135000 32.140000 6.756094
+90th Percentile of lat jit plr: 453.382000 48.997000 9.643000
